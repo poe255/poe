@@ -1,0 +1,2 @@
+Longueur = 50.50
+Largeur = 20
